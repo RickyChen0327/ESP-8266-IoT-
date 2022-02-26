@@ -1,4 +1,4 @@
-# ESP-8266-IoT-物聯網天氣時鐘
+# ESP-8266-IoT-物聯網氣象時鐘
 
 ## 接線圖
 ![FVNLLQHKS4NAA9D拷貝](https://user-images.githubusercontent.com/93476768/155829065-95021cb8-2ee9-4fdf-ba8d-38fe3a49fe5e.jpg)
