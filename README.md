@@ -12,3 +12,9 @@
 到此處註冊並取得API Key https://openweathermap.org/price
 並填入程式中
 ![截圖 2022-02-26 下午12 41 01](https://user-images.githubusercontent.com/93476768/155829254-30952f2b-5c70-4b14-969b-5527129d4b59.png)
+
+## 成品
+![截圖 2022-02-26 下午12 58 42](https://user-images.githubusercontent.com/93476768/155829843-35ae4ce8-026d-41ac-8464-6441d9489afd.png)
+
+參考連結：https://www.youtube.com/watch?v=gdNUUrwRTWM
+本程式已對台灣地區優化
